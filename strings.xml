@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daftar Bunga</string>
+    <string name="bunga1">Melati</string>
+    <string name="bunga2">Asoka</string>
+    <string name="bunga3">Alamanda</string>
+    <string name="bunga4">Lili</string>
+    <string name="bunga5">Amarilis</string>
+</resources>
